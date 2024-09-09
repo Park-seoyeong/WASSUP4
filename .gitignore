@@ -1,3 +1,15 @@
+# data 
+data/
+output/
+dataset/
+sample/
+
+# virtual_documents
+.virtual_documents/
+
+# ipynb_checkpoints
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
